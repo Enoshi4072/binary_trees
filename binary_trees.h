@@ -1,11 +1,12 @@
-#ifndef BINARY_TREES
-#define BINARY_TREES
+#ifndef BINARY_TREES_H
+#define BINARY_TREES_H
 
 #include <stddef.h>
 #include <stdio.h>
 #include <unistd.h>
 #include <stdarg.h>
 #include <stdlib.h>
+#include <limits.h>
 
 /**
  * struct binary_tree_s - Binary tree node
